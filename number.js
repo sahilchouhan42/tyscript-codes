@@ -1,0 +1,15 @@
+var num1 = 10;
+var num2 = 10;
+var total = num1 + num2;
+console.log(total);
+var oct = 4097;
+var hexa = 0x0001;
+var binary = 1;
+console.log(oct + 10);
+var item = 90;
+var item2 = "50";
+console.log(item + (+item2));
+var data = 19;
+data = "str";
+data = true;
+console.log(data);
