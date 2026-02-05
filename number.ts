@@ -14,8 +14,8 @@ var item:number = 90
 var item2 = "50"
 console.log(item+(+item2))
 
-var data: number|string|boolean = 19
-data = "str"
-data = true
+// var data: number|string|boolean = 19
+// data = "str"
+// data = true
 
 console.log(data)
