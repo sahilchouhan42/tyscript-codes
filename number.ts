@@ -18,4 +18,4 @@ console.log(item+(+item2))
 // data = "str"
 // data = true
 
-console.log(data)
+// console.log(data)

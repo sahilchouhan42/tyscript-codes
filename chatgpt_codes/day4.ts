@@ -21,8 +21,8 @@ var student:{name: string, age:number, course:string} = {name: "maya", age: 26, 
 
 console.log(student)
 
-var product:[number, string, number] = [1, "Laptop", 5000]
-console.log(product)
+// var product:[number, string, number] = [1, "Laptop", 5000]
+// console.log(product)
 
 var profile:{name: string, age: number, skills: string[]}={
     name: "sahil",
