@@ -1,0 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+let value = "Hello Typescript";
+console.log(value.length);
+let myName = "Sahil";
+let myNameLength = myName.length;
+console.log(myNameLength);
+let data;
+data = "vivek";
+console.log(data.length);
+let score;
+score = 45;
+console.log(score.toString());
